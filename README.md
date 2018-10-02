@@ -1,2 +1,2 @@
-# cloudshell-shells-documentaion-templates
-Documentation templates for shells releases
+# cloudshell-shells-documentation-templates
+Documentation templates for shell releases

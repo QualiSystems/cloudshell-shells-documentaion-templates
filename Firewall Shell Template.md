@@ -1,4 +1,4 @@
-![](https://github.com/stsuberi/SaraTest/blob/master/cloudshell_logo.png)
+![](https://github.com/QualiSystems/cloudshell-shells-documentaion-templates/blob/master/cloudshell_logo.png)
 
 # **[Shell Name]**  
 
@@ -159,7 +159,7 @@ This section explains how to create a new resource from the shell.
 
 In CloudShell, the component that models the device is called a resource. It is based on the shell that models the device and allows the CloudShell user and API to remotely control the device from CloudShell.
 
-You can also modify existing resources, see [Managing Resources in the Inventory](http://help.quali.com/Online%20Help/9.0/Portal/Content/CSP/INVN/Mng-Rsrc-in-Invnt.htm?Highlight=managing%20resources).
+You can also modify existing resources, see [Managing Resources in the Inventory](https://github.com/QualiSystems/cloudshell-shells-documentaion-templates/blob/master/create_a_resource_device.png).
 
 **To create a resource for the device:**
   1. In the CloudShell Portal, in the **Inventory** dashboard, click **Add New**. 

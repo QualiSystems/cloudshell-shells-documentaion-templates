@@ -31,13 +31,13 @@ CloudShell's networking shells provide L2 or L3 connectivity between resources a
 For more information on the **[Device Name]**, see the official **[Device Manufacturer]** product documentation.
 
 ### Standard version
-**[Shell Name x.x.x]** is based on the Networking Shell Standard version **[5.0.2]**.
+**[Shell Name]** is based on the Networking Shell Standard version **[5.0.2]**.
 
 For detailed information about the shell’s structure and attributes, see the [Networking Shell Standard](https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/networking_standard.md) in GitHub.
 
 ### Requirements
 
-Release: **[Shell Name x.x.x]**
+Release: **[Shell Name]**
 
 ▪ CloudShell version **[Version Number]**
 
@@ -67,7 +67,7 @@ https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/n
 **[Notes:]** <br>(Include additional information, as needed, to explain differences between this shell's attributes and the attributes documented in the Shell Standard.)
 
 ### Automation
-This section describes the automation (drivers) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource.  Autoload is executed when creating the resource in the Inventory dashboard, while resource commands are run in the Sandbox, providing that the resource has been discovered and is online.
+This section describes the automation (drivers) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource.  Autoload is executed when creating the resource in the **Inventory** dashboard, while resource commands are run in the sandbox.
 
 The following resource commands are available on the **[Device Name}**:
 
@@ -97,7 +97,7 @@ The shell comprises:
 |[Shell Offline Requirements .zip File Name]|Shell Python dependencies (for offline deployments only)|
 
 # Importing and Configuring the Shell
-This section describes how to import the **[Shell Name x.x.x]** shell and configure and modify the shell’s devices.
+This section describes how to import the **[Shell Name]** shell and configure and modify the shell’s devices.
 
 ### Importing the shell into CloudShell
 
@@ -176,7 +176,7 @@ You can also modify existing resources, see [Managing Resources in the Inventory
   
   4. Click **Create**.
   
-  5. In the **Resource** dialog box, enter the device's settings, see [Device Name Attributes](*device-name-attributes). 
+  5. In the **Resource** dialog box, enter the device's settings. For details, see [Device Name Attributes](*device-name-attributes). 
   
   6. Click **Continue**.
 

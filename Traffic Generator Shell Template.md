@@ -47,7 +47,7 @@ For detailed information about the shell’s structure and attributes, see the *
 
 ### Requirements
 
-Release: **[Shell Name x.x.x]**
+Release: **[Shell Name]**
 
 ▪ CloudShell version: **[Version Number]**
 
@@ -85,7 +85,7 @@ The attribute names and types are listed in the following table:
 |||||
 
 ### Automation
-This section describes the automation (drivers) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource.  Autoload is executed when creating the resource in the Inventory dashboard, while resource commands are run in the Sandbox, providing that the resource has been discovered and is online.
+This section describes the automation (drivers) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource.  Autoload is executed when creating the resource in the **Inventory** dashboard, while resource commands are run in the sandbox.
 
 For Traffic Generator shells, commands are configured and executed from the controller service in the sandbox, with the exception of the Autoload command, which is executed when creating the resource.
 
@@ -106,7 +106,7 @@ The shell comprises:
 |[Shell Offline Requirements .zip File Name]|Shell Python dependencies (for offline deployments only)|
 
 # Importing and Configuring the Shell
-This section describes how to import the **[Shell Name x.x.x]** and configure and modify the shell’s devices.
+This section describes how to import the **[Shell Name]** and configure and modify the shell’s devices.
 
 ### Importing the shell into CloudShell
 
@@ -185,7 +185,7 @@ You can also modify existing resources, see [Managing Resources in the Inventory
   
   4. Click **Create**.
   
-  5. In the **Resource** dialog box, enter the device's settings, see [Device Name Attributes](*device-name-attributes). 
+  5. In the **Resource** dialog box, enter the device's settings. For details, see [Device Name Attributes](*device-name-attributes). 
   
   6. Click **Continue**.
 

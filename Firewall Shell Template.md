@@ -62,7 +62,7 @@ The [Device Name] families and models are listed in the following table:
 
 #### **[Device Name] Attributes**
 
-[Note]: If relevant can link to the section of the standard.
+[Note]: If relevant, link to the section of the standard.
 
 The attribute names and types are listed in the following table:
 
@@ -240,6 +240,8 @@ To connect with Quali users and experts from around the world, ask questions and
 # Release Notes 
 (if not applicable - remove section)
 ### What's New
+
+[Note]: If previous releases exist, insert link to the release section of the shell GitHub repository to view changes made in each release.
 
 * 
 * 

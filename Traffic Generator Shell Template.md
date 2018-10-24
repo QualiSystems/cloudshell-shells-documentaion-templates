@@ -230,6 +230,8 @@ To connect with Quali users and experts from around the world, ask questions and
 (if not applicable - remove section)
 ### What's New
 
+[Note]: If previous releases exist, insert link to the release section of the shell GitHub repository to view changes made in each release.
+
 * 
 * 
 * 

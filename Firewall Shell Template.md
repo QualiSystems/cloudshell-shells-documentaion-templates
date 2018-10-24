@@ -62,16 +62,12 @@ The [Device Name] families and models are listed in the following table:
 
 #### **[Device Name] Attributes**
 
-[Note]: If relevant, link to the section of the standard.
+The attribute names and types are listed in the following section of the Firewall Shell Standard:
 
-The attribute names and types are listed in the following table:
+https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/firewall_standard.md#attributes
 
-|Attribute|Type|Default value|Description|
-|:---|:---|:---|:---|
-|||||
-|||||
-|||||
-|||||
+**[Notes:]** <br>(Include additional information, as needed, to explain differences between this shell's attributes and the attributes documented in the Shell Standard.)
+
 
 ### Automation
 This section describes the automation (drivers) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource. Autoload is executed when creating the resource in the Inventory dashboard, while resource commands are run in the Sandbox, providing that the resource has been discovered and is online.
@@ -84,9 +80,9 @@ The following resource commands are available on the **[Device Name}**:
 * 
 * 
 
-For detailed information on each of the above commands, see the following section of the **[Name of Standard File]**:
+For detailed information on each of the above commands, see the following section of the Firewall Shell Standard:
 
-(add link to https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/**[Name of Standard File]**.md#commands
+https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/firewall_standard.md#commands
 
 [Notes:] 
 (Include additional information, as needed, to explain differences between this shell's commands and the commands documented in the Shell Standard.)

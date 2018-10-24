@@ -76,14 +76,21 @@ The attribute names and types are listed in the following table:
 ### Automation
 This section describes the automation (drivers) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource. Autoload is executed when creating the resource in the Inventory dashboard, while resource commands are run in the Sandbox, providing that the resource has been discovered and is online.
 
-[Note]: If relevant can link to the section of the standard.
+The following resource commands are available on the **[Device Name}**:
 
-|Command|Description|
-|:-----|:-----|
-|||
-|||
-|||
-	
+* 
+* 
+* 
+* 
+* 
+
+For detailed information on each of the above commands, see the following section of the **[Name of Standard File]**:
+
+(add link to https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/**[Name of Standard File]**.md#commands
+
+[Notes:] 
+(Include additional information, as needed, to explain differences between this shell's commands and the commands documented in the Shell Standard.)
+
 # Downloading the Shell
 The **[Shell Name]** is available from the [Quali Community Integrations](https://community.quali.com/integrations) page. 
 

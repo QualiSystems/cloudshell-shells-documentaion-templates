@@ -69,7 +69,7 @@ https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/n
 ### Automation
 This section describes the automation (drivers) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource.  Autoload is executed when creating the resource in the **Inventory** dashboard, while resource commands are run in the sandbox.
 
-The following resource commands are available on the **[Device Name}**:
+The following resource commands are available on the **[Device Name]**:
 
 * 
 * 

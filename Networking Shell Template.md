@@ -249,9 +249,7 @@ To connect with Quali users and experts from around the world, ask questions and
 
 [Note]: If previous releases exist, insert link to the release section of the shell GitHub repository to view changes made in each release. You should include a brief description of the fixes and enhancements made in this release.
 
-* 
-* 
-* 
+For release updates, see the shell's [GitHub releases page](https://github.com/QualiSystems/Ixia-IxNetworkController-Shell/releases).
 
 ### Known Issues
 * 

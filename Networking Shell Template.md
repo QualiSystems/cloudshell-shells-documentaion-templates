@@ -202,7 +202,7 @@ In online mode, the execution server automatically downloads and extracts the ap
 
 2. Run the **Save** resource command.
 
-3. In the command inputs field, enter the following information:
+3. In the **Command Inputs** sub-pane, enter the following information:
 	* **Folder Path**: For example, *tftp://ipaddress/shared folder*.
 	* **Configuration Type**: **Startup** or **Running**.
 	* **VRF Management Name**: Provide the VRF Management name, if relevant.
@@ -216,7 +216,7 @@ The Startup or Running configuration is saved to a file named *<ResourceName>-<s
 
 2. Run the **Restore** resource command.
 
-3. In the command inputs field, enter the following information:
+3. In the **Command Inputs** sub-pane, enter the following information:
 	* **Path**: (Mandatory) Enter the full path of the configuration file. 
 	* **Restore Method**: (Optional) Possible values are **Override** or **Append**. If left empty, the **Override** method is used. 
 	* **Configuration Type**: (Mandatory) Possible values are **Startup** or **Running**.
@@ -229,7 +229,7 @@ The Startup or Running configuration is saved to a file named *<ResourceName>-<s
 
 2. Run the **Load Firmware** resource command. 
 
-3. In the command inputs field, enter the following information:
+3. In the **Command Inputs** sub-pane, enter the following information:
 	* **Path** (Mandatory). Enter the full path to the firmware file on the remote host, for example: tftp://10.1.1.1/both.tim.
 	
 4. Click **Run**.

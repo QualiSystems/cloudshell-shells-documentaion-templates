@@ -45,6 +45,7 @@ Release: **[Shell Name]**
 * CloudShell [version x.x]
 * Other
 
+[Include this note only if the shellis a 2G shell]
 **Note:** If your CloudShell version does not support this shell, you should consider upgrading to a later version of CloudShell or contact customer support. 
 
 ### Data Model

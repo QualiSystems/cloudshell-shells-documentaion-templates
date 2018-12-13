@@ -28,7 +28,7 @@ CloudShell's networking shells provide L2 or L3 connectivity between resources a
 ### **[Shell Name]**
 **[Shell Name]** shell provides you with connectivity and management capabilities such as device structure discovery and power management for the resource. 
 
-For more information on the device, see the official **[Device Manufacturer]** product documentation.
+For more information on the device, see the vendor's official product documentation.
 
 ### Standard version
 **[Shell Name]** is based on the Networking Shell Standard version **[5.0.2]**.

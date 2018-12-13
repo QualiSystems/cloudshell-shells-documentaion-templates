@@ -57,7 +57,7 @@ The attribute names and types are listed in the following section of the Network
 
 https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/networking_standard.md#attributes
 
-The following table describes attributes that are  unique to this shell and are not documented in the Shell Standard: 
+The following table describes attributes that are unique to this shell and are not documented in the Shell Standard: 
 
 (Include additional information, as needed, to explain non-standard attributes, i.e. differences between this shell's attributes and the commands documented in the Shell Standard.)
 
@@ -83,7 +83,7 @@ For detailed information on each of the above commands, see the following sectio
 
 https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/networking_standard.md#commands
 
-The following table describes commands that are  unique to this shell and are not documented in the Shell Standard: 
+The following table describes commands that are unique to this shell and are not documented in the Shell Standard: 
 
 (Include additional information, as needed, to explain non-standard commands, i.e. differences between this shell's commands and the commands documented in the Shell Standard.)
 

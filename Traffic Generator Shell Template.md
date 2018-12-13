@@ -66,17 +66,6 @@ Release: **[Shell Name]**
 
 The shell's data model includes all shell metadata, families, and attributes.
 
-#### **[Device Name] Families and Models**
-
-The chassis families and models are listed in the following table:
-
-|Family|Model|Description|
-|:---|:---|:---|
-||||
-||||
-||||
-||||
-
 #### **[Shell Name] Attributes**
 
 The attribute names and types are listed in the following table:
@@ -106,7 +95,7 @@ The shell comprises:
 
 |File name|Description|
 |:---|:---|
-|[Shell .zip File Name]|[Device Name] shell package|
+|[Shell .zip File Name]|Device shell package|
 |[Shell Offline Requirements .zip File Name]|Shell Python dependencies (for offline deployments only)|
 
 # Importing and Configuring the Shell
@@ -183,7 +172,7 @@ You can also modify existing resources, see [Managing Resources in the Inventory
      
   2. From the list, select **[Shell Name]**.
   
-  3. Enter the **Name** and **IP address** of the **[Device Name]** (if applicable).
+  3. Enter the **Name** and **IP address** of the device (if applicable).
   
   4. Click **Create**.
   

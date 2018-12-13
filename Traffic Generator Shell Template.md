@@ -29,9 +29,9 @@ CloudShell's traffic generator shells enable you to conduct traffic test activit
 For additional information on traffic generator shell architecture, and setting up and using a traffic generator in CloudShell, see the [Traffic Generators Overiew](http://help.quali.com/Online%20Help/9.0/Portal/Content/CSP/LAB-MNG/Trffc-Gens.htm?Highlight=traffic%20generator%20overview) online help topic.
 
 ### **[Shell Name]**
-**[Shell Name]** provides you with connectivity and management capabilities such as device structure discovery and power management for the **[Device Name]**. 
+**[Shell Name]** provides you with connectivity and management capabilities such as device structure discovery and power management for the resource. 
 
-For more information on the **[Device Name]**, see the official **[Device Manufacturer]** product documentation.
+For more information on the device, see the vendor's official product documentation.
 
 To model an **[Device Name]** device in CloudShell, use one of the following controllers, which provides automation commands to run on the chassis, such as Load Configuration, Start Traffic/Test, Get Statistics: 
 
@@ -77,7 +77,7 @@ The chassis families and models are listed in the following table:
 ||||
 ||||
 
-#### **[Device Name] Attributes**
+#### **[Shell Name] Attributes**
 
 The attribute names and types are listed in the following table:
 

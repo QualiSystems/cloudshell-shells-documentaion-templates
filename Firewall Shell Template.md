@@ -53,24 +53,22 @@ Release: **[Shell Name]**
 
 The shell's data model includes all shell metadata, families, and attributes.
 
-#### **[Device Name] Families and Models**
-
-The [Device Name] families and models are listed in the following table:
-
-|Family|Model|Description|
-|:---|:---|:---|
-||||
-||||
-||||
-||||
-
 #### **[Shell Name] Attributes**
 
 The attribute names and types are listed in the following section of the Firewall Shell Standard:
 
 https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/firewall_standard.md#attributes
 
-**[Notes:]** <br>(Include additional information, as needed, to explain differences between this shell's attributes and the attributes documented in the Shell Standard.)
+The following table describes attributes that are unique to this shell and are not documented in the Shell Standard: 
+
+(Include additional information, as needed, to explain non-standard attributes, i.e. differences between this shell's attributes and the commands documented in the Shell Standard.)
+
+|Command|Description|
+|:---|:---|
+|||
+|||
+|||
+|||
 
 
 ### Automation
@@ -88,8 +86,16 @@ For detailed information on each of the above commands, see the following sectio
 
 https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/firewall_standard.md#commands
 
-[Notes:] 
-(Include additional information, as needed, to explain differences between this shell's commands and the commands documented in the Shell Standard.)
+The following table describes commands that are unique to this shell and are not documented in the Shell Standard: 
+
+(Include additional information, as needed, to explain non-standard commands, i.e. differences between this shell's commands and the commands documented in the Shell Standard.)
+
+|Command|Description|
+|:---|:---|
+|||
+|||
+|||
+|||
 
 # Downloading the Shell
 The **[Shell Name]** is available from the [Quali Community Integrations](https://community.quali.com/integrations) page. 

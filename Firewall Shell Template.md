@@ -26,9 +26,9 @@ A shell integrates a device model, application or other technology with CloudShe
 CloudShell's Firewall shells enable you to manage your Firewall device similar to your networking equipment but without connectivity. In CloudShell, a Firewall shell runs commands, such as Autoload, Load, and Save Configuration. 
 
 ### **[Shell Name]**
-**[Shell Name]** provides you with connectivity and management capabilities such as device structure discovery and power management for the **[Device Name]**. 
+**[Shell Name]** provides you with connectivity and management capabilities such as device structure discovery and power management for the resource. 
 
-For more information on the **[Device Name]**, see the official **[Device Manufacturer]** product documentation.
+For more information on the device, see the official **[Device Manufacturer]** product documentation.
 
 ### Standard version
 **[Shell Name x.x.x]** is based on the **[Name of Standard File]**.
@@ -64,7 +64,7 @@ The [Device Name] families and models are listed in the following table:
 ||||
 ||||
 
-#### **[Device Name] Attributes**
+#### **[Shell Name] Attributes**
 
 The attribute names and types are listed in the following section of the Firewall Shell Standard:
 
@@ -76,7 +76,7 @@ https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/f
 ### Automation
 This section describes the automation (driver) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource. Autoload is executed when creating the resource in the **Inventory** dashboard, while resource commands are run in the sandbox.
 
-The following resource commands are available on the **[Device Name}**:
+The following resource commands are available on the resource:
 
 * 
 * 
@@ -100,7 +100,7 @@ The shell comprises:
 
 |File name|Description|
 |:---|:---|
-|[Shell .zip File Name]|[Device Name] shell package|
+|[Shell .zip File Name]|Device shell package|
 |[Shell Offline Requirements .zip File Name]|Shell Python dependencies (for offline deployments only)|
 
 # Importing and Configuring the Shell
@@ -176,7 +176,7 @@ You can also modify existing resources, see [Managing Resources in the Inventory
      
   2. From the list, select **[Shell Name]**.
   
-  3. Enter the **Name** and **IP address** of the **[Device Name]** (if applicable).
+  3. Enter the **Name** and **IP address** of the device (if applicable).
   
   4. Click **Create**.
   

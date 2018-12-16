@@ -77,6 +77,17 @@ The attribute names and types are listed in the following table:
 |||||
 |||||
 
+The following table describes attributes that are unique to this shell and are not documented in the Shell Standard: 
+
+(Include additional information, as needed, to explain non-standard attributes, i.e. differences between this shell's attributes and the commands documented in the Shell Standard.)
+
+|Command|Description|
+|:---|:---|
+|||
+|||
+|||
+|||
+
 ### Automation
 This section describes the automation (driver) associated with the data model. The shell’s driver is provided as part of the shell package. There are two types of automation processes, Autoload and Resource. Autoload is executed when creating the resource in the **Inventory** dashboard, while resource commands are run in the sandbox.
 
@@ -85,6 +96,17 @@ For Traffic Generator shells, commands are configured and executed from the cont
 |Command|Description|
 |:-----|:-----|
 |Autoload|Discovers the chassis, its hierarchy and attributes when creating the resource. The command can be rerun in the Inventory dashboard and not in the sandbox, as for other commands.|
+
+The following table describes commands that are unique to this shell and are not documented in the Shell Standard: 
+
+(Include additional information, as needed, to explain non-standard commands, i.e. differences between this shell's commands and the commands documented in the Shell Standard.)
+
+|Command|Description|
+|:---|:---|
+|||
+|||
+|||
+|||
 
 # Downloading the Shell
 The **[Shell Name]** is available from the [Quali Community Integrations](https://community.quali.com/integrations) page. 

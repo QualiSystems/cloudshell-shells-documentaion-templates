@@ -33,7 +33,7 @@ For additional information on traffic generator shell architecture, and setting 
 
 For more information on the device, see the vendor's official product documentation.
 
-To model an **[Device Name]** device in CloudShell, use one of the following controllers, which provides automation commands to run on the chassis, such as Load Configuration, Start Traffic/Test, Get Statistics: 
+To model the device in CloudShell, use one of the following controllers, which provides automation commands to run on the chassis, such as Load Configuration, Start Traffic/Test, Get Statistics: 
 
 ▪ <a href="**[Controller Shell https from Quali's Community Integrations page]**" target="_blank">**[Controller Shell Name]**</a>
 
@@ -41,7 +41,10 @@ To model an **[Device Name]** device in CloudShell, use one of the following con
 
 ### Standard version
 
-For detailed information about the shell’s structure and attributes, see the **Shells Standard: Traffic**.(https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/traffic_standard.md) in GitHub.
+For detailed information about the shell’s structure and attributes, see the following standards:
+
+▪ **Traffic Generator Controller Shell Standard**(https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md) in GitHub.
+▪ **Traffic Generator Chassis Shell Standard** (https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md) in GitHub.
 
 ### Supported OS
 ▪ **[OS Name]**
@@ -68,14 +71,11 @@ The shell's data model includes all shell metadata, families, and attributes.
 
 #### **[Shell Name] Attributes**
 
-The attribute names and types are listed in the following table:
+The attribute names and types are listed in the following sections of the Traffic Generator Standards:
 
-|Attribute|Type|Default value|Description|
-|:---|:---|:---|:---|
-|||||
-|||||
-|||||
-|||||
+* Traffic Generator Controller Shell Standard: https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md#attributes
+
+* Traffic Generator Chassis Shell Standard: https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#attributes
 
 The following table describes attributes that are unique to this shell and are not documented in the Shell Standard: 
 
@@ -96,6 +96,13 @@ For Traffic Generator shells, commands are configured and executed from the cont
 |Command|Description|
 |:-----|:-----|
 |Autoload|Discovers the chassis, its hierarchy and attributes when creating the resource. The command can be rerun in the Inventory dashboard and not in the sandbox, as for other commands.|
+
+The command names and types are listed in the following sections of the Traffic Generator Standards:
+
+* Traffic Generator Controller Shell Standard: https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md#Commands
+
+
+* Traffic Generator Chassis Shell Standard: https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#Commands
 
 The following table describes commands that are unique to this shell and are not documented in the Shell Standard: 
 

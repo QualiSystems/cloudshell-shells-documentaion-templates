@@ -103,7 +103,7 @@ The command names and types are listed in the following sections of the Traffic 
 * [Traffic Generator Controller Shell Standard commands](https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md#Commands)
 
 
-* [Traffic Generator Chassis Shell Standard](https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#Commands)
+* [Traffic Generator Chassis Shell Standard commands](https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#Commands)
 
 The following table describes commands that are unique to this shell and are not documented in the Shell Standard: 
 

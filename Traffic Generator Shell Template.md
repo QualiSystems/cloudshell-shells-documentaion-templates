@@ -33,11 +33,12 @@ For additional information on traffic generator shell architecture, and setting 
 
 For more information on the device, see the vendor's official product documentation.
 
-To model the device in CloudShell, use one of the following controllers, which provides automation commands to run on the chassis, such as Load Configuration, Start Traffic/Test, Get Statistics: 
+To model the traffic generator in CloudShell, you must use the following shells:
 
-▪ <a href="**[Controller Shell https from Quali's Community Integrations page]**" target="_blank">**[Controller Shell Name]**</a>
+▪ [Chassis 2G Shell Name], which provides data model and autoload functionality to model and load the chassis to resource management.
 
-▪ <a href="**[Controller Shell https from Quali's Community Integrations page]**" target="_blank">**[Controller Shell Name]**</a>
+▪ [Controller 1G Shell Name] (service), which provides functionality to load test configuration, run tests, get test results, etc.
+
 
 ### Standard version
 

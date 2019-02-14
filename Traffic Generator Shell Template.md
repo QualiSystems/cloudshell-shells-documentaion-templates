@@ -100,10 +100,10 @@ For Traffic Generator shells, commands are configured and executed from the cont
 
 The command names and types are listed in the following sections of the Traffic Generator Standards:
 
-* Traffic Generator Controller Shell Standard: https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md#Commands
+* [Traffic Generator Controller Shell Standard commands](https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md#Commands)
 
 
-* Traffic Generator Chassis Shell Standard: https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#Commands
+* [Traffic Generator Chassis Shell Standard](https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#Commands)
 
 The following table describes commands that are unique to this shell and are not documented in the Shell Standard: 
 

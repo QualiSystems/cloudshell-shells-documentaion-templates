@@ -74,13 +74,9 @@ The shell's data model includes all shell metadata, families, and attributes.
 
 The attribute names and types are listed in the following sections of the Traffic Generator Standards:
 
-* Traffic Generator Controller Shell Standard: 
+* Traffic Generator Controller Shell Standard attributes(https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md#attributes)
 
-https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md#attributes
-
-* Traffic Generator Chassis Shell Standard: 
-
-https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#attributes
+* Traffic Generator Chassis Shell Standard attributes(https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md#attributes)
 
 The following table describes attributes that are unique to this shell and are not documented in the Shell Standard: 
 

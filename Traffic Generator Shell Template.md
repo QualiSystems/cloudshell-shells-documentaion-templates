@@ -43,8 +43,8 @@ To model the device in CloudShell, use one of the following controllers, which p
 
 For detailed information about the shell’s structure and attributes, see the following standards:
 
-▪ **Traffic Generator Controller Shell Standard**(https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md) in GitHub.
-▪ **Traffic Generator Chassis Shell Standard** (https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md) in GitHub.
+▪ [Traffic Generator Controller Shell Standard](#https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Controller%20Shell%20Standard.md) in GitHub.
+▪ [Traffic Generator Chassis Shell Standard](#https://github.com/QualiSystems/cloudshell-standards/blob/master/Documentation/Traffic%20Generator%20Chassis%20Standard.md) in GitHub.
 
 ### Supported OS
 ▪ **[OS Name]**

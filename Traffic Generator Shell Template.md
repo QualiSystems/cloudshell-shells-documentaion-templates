@@ -35,9 +35,9 @@ For more information on the device, see the vendor's official product documentat
 
 To model the traffic generator in CloudShell, you must use the following shells:
 
-▪ [Chassis 2G Shell Name], which provides data model and autoload functionality to model and load the chassis to resource management.
+▪ **[Chassis 2G Shell Name]**, which provides data model and autoload functionality to model and load the chassis to resource management.
 
-▪ [Controller 1G Shell Name] (service), which provides functionality to load test configuration, run tests, get test results, etc.
+▪ **[Controller 1G Shell Name]** (service), which provides functionality to load test configuration, run tests, get test results, etc.
 
 
 ### Standard version
